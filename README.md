@@ -1,2 +1,4 @@
 # UG_Projects_Dissertation
-This is my UG dissertation.
+This is my UG Dissertation.<br />
+Direct copy on your own risk, this project have a submation id. <br />
+Folder and funcion have named Intentionaly.<br />
