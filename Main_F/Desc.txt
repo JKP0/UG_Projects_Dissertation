@@ -1,0 +1,3 @@
+Sofware Realization For Finite Models Automata, here we have tried to automate the simulation of models automata.
+Meaning of term TCS is Theortical Computer Science
+gUiTCSLv means GUI_TCS_Lab
