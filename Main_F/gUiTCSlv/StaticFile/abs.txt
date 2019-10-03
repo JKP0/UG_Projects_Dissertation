@@ -1,0 +1,12 @@
+    Today all of us are only running for "How much fast?", "How much efficiently?" and "How ease?"' we can achieve! and we can get!; All of us are always looking for "How much soft is this?" and "How much soft it could be?"; And for this, on every beginning and on every end we question that "Is this sufficient?" And, this question of sufficiency answers us that softness and easiness have no limit. All of this we are achieving through Machine (Automata) and more over through Computer. 
+ 
+                                           Making easy is not easy. 
+                                           Making soft is not soft. 
+                                           
+    Computer have made all these job easier and soft for us on large scale of computation; And we are getting these thing easily and softly. But whatever computer are doing in background to make it easy, soft and understandable (user-friendly) that is not easy; Even on ground scale for us it is not possible to do that much computation manually. 
+
+    The thing due to which a computer able to perform that much computation softly and easily is nothing but the theory behind it, i.e. Theory Of Computation. Theory Of Computation is efficiency and sufficiency of Computer Science, If something cannot be done by Finite State Automata then that cannot be done by computer. In truth, The branch of computer science called Theoretical Computer Science(TCS) is Mathematics of Computer Science. Theory Of Computation deals with 
+            a) Automata Theory, 
+            b) Computability Theory, and 
+            c) Complexity Theory. 
+    An achievement in TCS leads to new generation of computer or an upgradation of computer. And an upgradation of machine can only be known by their efficiency, softness in computing and user-friendliness and interaction on front end. So implementation of anupgrade leads to designing a good Graphical User Interface.
